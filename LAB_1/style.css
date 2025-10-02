@@ -1,0 +1,7 @@
+/* selector is 'p' */
+p {
+    /* property is 'font-size' */
+    /* value is '18px' */
+    /* declaration is the whole line: 'font-size: 18px;' */
+    font-size: 18px;
+}
